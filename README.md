@@ -1,5 +1,5 @@
 ## Weather Forecaster
 
-![home](https://github.com/user-attachments/assets/4d91e253-6b73-4048-aa66-f2d7a3eaf995)
-![results](https://github.com/user-attachments/assets/75ff4f44-9380-411b-aad6-caea8d2891d5)
-![error](https://github.com/user-attachments/assets/c3bb4ec1-dbcb-43c4-a6ef-7a3644446c27)
+![home](https://github.com/user-attachments/assets/d54700b3-6c3c-4229-a302-62891435f73e)
+![results](https://github.com/user-attachments/assets/1c89ef33-1241-4ee2-8093-0b9adae5e83e)
+![error](https://github.com/user-attachments/assets/efeea0cd-8a92-455b-af7f-f6d28d26b62c)
