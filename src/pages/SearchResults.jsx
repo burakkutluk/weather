@@ -36,7 +36,7 @@ const SearchResults = () => {
         {/* Sol tarafta */}
         <div className="flex flex-col border w-full border-2 rounded-lg mt-4">
           <h1 className="text-xl font-bold text-gray-600 p-4 border-b">
-            Weather Forecast for Ankara
+            Weather Forecast for {weatherData.city_name}
           </h1>
 
           <table className="min-w-full bg-white">
